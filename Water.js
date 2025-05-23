@@ -11,7 +11,7 @@ import {
 	Vector3,
 	Vector4,
 	WebGLRenderTarget
-} from 'https://cdn.jsdelivr.net/npm/three@0.160.1/build/three.module.js';
+} from 'https://cdn.jsdelivr.net/gh/kalyanMondal2000/three@master/three.module.js';
 
 /**
  * Work based on :
